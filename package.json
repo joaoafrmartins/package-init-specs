@@ -1,0 +1,22 @@
+{
+  "name": "package-init-specs",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "description": "Package Init Specs",
+  "keywords": [
+    "package",
+    "init",
+    "specs"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://github.com/joaoafrmartins/package-init-specs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/package-init-specs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/package-init-specs/issues"
+  },
+  "license": "MIT"
+}

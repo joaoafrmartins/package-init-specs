@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "<%=context['kosher.test']%>"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "kosher": ""
+  }
+}
